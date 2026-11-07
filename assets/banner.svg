@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Waqar Ahmed | GHL &amp; n8n Automation. Make every lead move forward. Remote, worldwide.">
+<title>Waqar Ahmed | GHL &amp; n8n Automation</title>
+<defs>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FBFCFD" stroke-opacity=".035"/></pattern>
+<radialGradient id="gl" cx="80%" cy="42%" r="45%"><stop offset="0" stop-color="#12B8A6" stop-opacity=".16"/><stop offset="1" stop-color="#12B8A6" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset=".72" stop-color="#12B8A6"/><stop offset=".72" stop-color="#F5AD59"/></linearGradient>
+</defs>
+<rect width="1280" height="320" fill="#10243C"/><rect width="1280" height="320" fill="url(#g)"/><rect width="1280" height="320" fill="url(#gl)"/>
+<rect x="64" y="96" width="128" height="128" rx="28" fill="#FBFCFD"/>
+<g transform="translate(69 101) scale(.921875)"><rect x="4" y="4" width="120" height="120" rx="28" fill="#10243C"/><path d="M28 38h15l10 43 12-30h9l12 30 10-43h15L93 99H80L70 74 60 99H47L28 38Z" fill="#FBFCFD"/><circle cx="104" cy="94" r="8" fill="#12B8A6"/></g>
+<g font-family="Manrope,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+<text x="228" y="112" font-size="24" font-weight="700" fill="#FBFCFD">Waqar Ahmed | GHL &amp; n8n Automation</text>
+<text x="228" y="166" font-size="44" font-weight="800" fill="#FBFCFD" letter-spacing="-.5">Make every lead <tspan fill="#12B8A6">move forward.</tspan></text>
+<text x="228" y="252" font-size="15" fill="#C3CEDB">AI automation · Workflow automation · Business process automation  ·  Remote, worldwide</text>
+</g>
+<rect x="228" y="186" width="560" height="36" rx="8" fill="#FBFCFD" fill-opacity=".05" stroke="#FBFCFD" stroke-opacity=".12"/>
+<text x="242" y="209" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8FE3D8">lead.captured → followup.sent → quote.requested → <tspan fill="#F5AD59" font-weight="600">job.booked</tspan></text>
+<rect y="314" width="1280" height="6" fill="url(#bar)"/>
+</svg>
