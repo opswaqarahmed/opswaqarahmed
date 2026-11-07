@@ -62,7 +62,9 @@ Normalize incoming requests, route by service, prevent duplicate records, notify
 
 Based in **Khairpur District, Sindh, Pakistan** · available for remote work in Pakistan and internationally.
 
-- LinkedIn: [linkedin.com/in/waqar-larik2026](https://www.linkedin.com/in/waqar-larik2026)
+- LinkedIn: [linkedin.com/in/opswaqarahmed](https://www.linkedin.com/in/opswaqarahmed)
+- Linktree: [linktr.ee/opswaqarahmed](https://linktr.ee/opswaqarahmed)
+- Email: [opswaqarahmed@gmail.com](mailto:opswaqarahmed@gmail.com)
 
 If leads, quotes or reporting are falling between tools, message me with the process and the systems you use.
 
