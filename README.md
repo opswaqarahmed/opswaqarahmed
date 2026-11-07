@@ -1,4 +1,6 @@
-# Waqar Ahmed
+<p align="center"><img src="assets/banner.svg" width="100%" alt="Waqar Ahmed | GHL &amp; n8n Automation. Make every lead move forward. Remote, worldwide."></p>
+
+# Waqar Ahmed | GHL & n8n Automation
 
 **GHL & n8n Automation for renovation and home-service businesses**
 
@@ -60,7 +62,7 @@ Normalize incoming requests, route by service, prevent duplicate records, notify
 
 ## Contact
 
-Available for remote projects worldwide.
+Remote, worldwide.
 
 - Website: [opswaqarahmed.pages.dev](https://opswaqarahmed.pages.dev/)
 - LinkedIn: [linkedin.com/in/opswaqarahmed](https://www.linkedin.com/in/opswaqarahmed/)
