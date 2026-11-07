@@ -54,16 +54,20 @@ Normalize incoming requests, route by service, prevent duplicate records, notify
 ## Learning
 
 - Working in AI automation since **May 2022**
-- **LOOP Institute of Applied AI — GoHighLevel certification:** *in progress* (started September 2026)
+- **LOOP Institute of Applied AI — GoHighLevel certification training:** completed
 
 ---
 
 ## Contact
 
-Based in **Khairpur District, Sindh, Pakistan** · available for remote work in Pakistan and internationally.
+Available for remote projects worldwide.
 
-- LinkedIn: [linkedin.com/in/opswaqarahmed](https://www.linkedin.com/in/opswaqarahmed)
+- Website: [opswaqarahmed.pages.dev](https://opswaqarahmed.pages.dev/)
+- LinkedIn: [linkedin.com/in/opswaqarahmed](https://www.linkedin.com/in/opswaqarahmed/)
 - Linktree: [linktr.ee/opswaqarahmed](https://linktr.ee/opswaqarahmed)
+- YouTube: [youtube.com/@opswaqarahmed](https://www.youtube.com/@opswaqarahmed)
+- X: [x.com/opswaqarahmed](https://x.com/opswaqarahmed)
+- Facebook · Instagram · Threads · TikTok: all at **@opswaqarahmed** (links on [Linktree](https://linktr.ee/opswaqarahmed))
 - Email: [opswaqarahmed@gmail.com](mailto:opswaqarahmed@gmail.com)
 
 If leads, quotes or reporting are falling between tools, message me with the process and the systems you use.
