@@ -1,29 +1,38 @@
-<p align="center"><img src="assets/banner.svg" width="100%" alt="Waqar Ahmed | GHL &amp; n8n Automation. Make every lead move forward. Remote, worldwide."></p>
+<p align="center"><img src="https://raw.githubusercontent.com/opswaqarahmed/opswaqarahmed-website/main/brand/banners/github-readme-banner-1280x320.png" width="100%" alt="Waqar Ahmed | AI Automation &amp; Agentic AI. Make every lead move forward."></p>
 
-# Waqar Ahmed | GHL & n8n Automation
+# Waqar Ahmed | AI Automation & Agentic AI
 
-**GHL & n8n Automation for renovation and home-service businesses**
+**AI Automation & Agentic AI Specialist for renovation and home-service businesses**
 
 *Make every lead move forward.*
 
-I build practical GoHighLevel (GHL) and n8n workflows for the parts of a service business that are easy to lose track of: new inquiries, follow-up, site visits, supplier quote requests and owner reporting.
+I build AI receptionists, GoHighLevel and n8n systems and websites for renovation and home-service businesses. Every enquiry answered and followed up.
 
-My approach is business-first: map the current process, agree on a useful measure, test normal and failure cases, and hand over a system the team can understand.
+Before automation I spent about eight years in branch banking operations at MCB Bank, and I build AI the way a branch runs its day: every action has an owner and a record, and decisions stay with people. Everything is built inside accounts you own.
 
 > **Clear workflows. Useful automation. No black boxes.**
 
 ---
 
+## Flagship service: 24/7 AI Website Receptionist
+
+An AI agent on your website that answers visitor questions from your own approved content, day or night, and captures the enquiry for your team.
+
+---
+
 ## What I work on
 
-| Area | What the workflow does |
+| Area | What it does |
 |---|---|
+| **AI website receptionist** | Answers visitor questions from the business's own approved content and captures the enquiry for the team |
+| **AI agents** | AI steps inside workflows where judgment helps: reading an enquiry, drafting a reply, summarising and tagging |
 | **Lead intake** | Capture inquiries, clean the data, route by service, prevent duplicates, notify the right owner |
 | **Follow-up** | Reply-aware follow-up that stops when the customer responds or the job is closed |
 | **Supplier quote requests** | Match active suppliers by trade and city, send individual requests, record status and next follow-up in the CRM |
 | **Reporting** | Scheduled data reads, owner and marketing dashboards, totals reconciled to source data |
+| **Websites** | Business websites built with AI-assisted tools |
 
-**Tools in my work:** GoHighLevel · n8n · Google Sheets · Gmail · APIs & webhooks · AI where it adds value
+**Tools in my work:** GoHighLevel · n8n · AI agents & RAG · Google Sheets · Gmail · APIs & webhooks
 
 ---
 
@@ -62,7 +71,7 @@ Normalize incoming requests, route by service, prevent duplicate records, notify
 
 ## Contact
 
-Remote, worldwide.
+Khairpur District, Sindh, Pakistan. Working remotely with clients worldwide.
 
 - Website: [opswaqarahmed.pages.dev](https://opswaqarahmed.pages.dev/)
 - LinkedIn: [linkedin.com/in/opswaqarahmed](https://www.linkedin.com/in/opswaqarahmed/)
